@@ -132,7 +132,37 @@ Bem-vindo ao **Replika AI**, uma plataforma moderna e inteligente projetada para
 
 ## 🔧 Tecnologias e Funcionalidades 🔒
 
-![Technology](https://img.shields.io/badge/Technology-Streamlit-yellow?style=for-the-badge&logo=streamlit)
+# Tecnologias Utilizadas no Projeto Replika AI 🚀
+
+## 📚 **Tecnologias e Ferramentas** 🛠️
+
+### ![Streamlit](https://img.shields.io/badge/Technology-Streamlit-yellow?style=for-the-badge&logo=streamlit)
+- **Streamlit** é utilizado para construir a interface interativa e intuitiva, permitindo a criação rápida de dashboards e ferramentas de visualização para análise de contratos.
+
+### ![Python](https://img.shields.io/badge/Technology-Python-blue?style=for-the-badge&logo=python)
+- **Python** é a linguagem principal utilizada no backend do Replika AI. Ela é responsável pela manipulação de arquivos, processamento de texto e integração com modelos de IA.
+
+### ![Google Gemini](https://img.shields.io/badge/Technology-Google_Gemini-purple?style=for-the-badge&logo=google)
+- **Google Gemini** (modelos **gemini-1.5-flash-latest**) é a IA utilizada para realizar análises de contratos. Ela ajuda a identificar cláusulas, riscos e gerar insights relacionados ao conteúdo legal dos documentos.
+
+### ![PyMuPDF](https://img.shields.io/badge/Technology-PyMuPDF-green?style=for-the-badge&logo=python)
+- **PyMuPDF** é utilizado para extração de texto de documentos PDF. A ferramenta garante que o conteúdo de contratos em PDF seja extraído com precisão e prepará-lo para análise.
+
+### ![python-docx](https://img.shields.io/badge/Technology-python--docx-red?style=for-the-badge&logo=python)
+- **python-docx** é utilizado para manipulação de documentos do tipo **DOCX**, permitindo que o conteúdo de contratos em formato Word seja lido e processado de maneira eficiente.
+
+### ![JWT](https://img.shields.io/badge/Technology-JWT-black?style=for-the-badge&logo=jsonwebtokens)
+- **JWT (JSON Web Tokens)** é utilizado para garantir segurança e autenticação do usuário, controlando o acesso à plataforma e mantendo a integridade da sessão.
+
+### ![Markdown](https://img.shields.io/badge/Technology-Markdown-000000?style=for-the-badge&logo=markdown)
+- **Markdown** é utilizado para gerar relatórios personalizados em formato legível, com opções de exportação simples e eficiente, como **.md** para Notion ou outras ferramentas de produtividade.
+
+### ![PDF](https://img.shields.io/badge/Technology-PDF-lightgray?style=for-the-badge&logo=adobe)
+- **PDF** é utilizado para gerar relatórios detalhados e prontos para distribuição, permitindo a exportação de resultados e recomendações de forma profissional.
+
+---
+
+Essas tecnologias são integradas de forma fluida para proporcionar uma experiência eficiente e segura na análise de contratos, oferecendo a melhor combinação de processamento de dados e interação com o usuário.
 
 ### 📚 **Extração de Texto de Documentos**
 O sistema utiliza bibliotecas poderosas como **PyMuPDF** para PDFs e **python-docx** para documentos do Word. Isso permite uma extração precisa de texto, que é o ponto de partida para qualquer análise.
