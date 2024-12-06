@@ -120,6 +120,107 @@ Teste agora mesmo: [Hugging Face Space](https://huggingface.co/spaces/chaos4455/
 Elias Andrade - **Replika AI Solutions**  
 📍 Maringá, Paraná, Brasil  
 
+# Replika AI - Análise de Contratos B2B 📊🤝
+
+![Replika AI](https://img.shields.io/badge/Replika_AI-Análise_de_Contratos-blue?style=for-the-badge&logo=python)
+
+## 🌟 Visão Geral da Arquitetura 🚀
+
+Bem-vindo ao **Replika AI**, uma plataforma moderna e inteligente projetada para análise de contratos empresariais (B2B). Criado por mim, Elias Andrade, o sistema utiliza IA de última geração, integrando ferramentas de **Google Gemini**, segurança robusta, e uma interface interativa com **Streamlit**. Aqui, você pode analisar contratos em **PDF**, **DOC** e **DOCX** com base em várias variáveis como tipo de contrato, papel do usuário e estilo de escrita. 💼📑
+
+---
+
+## 🔧 Tecnologias e Funcionalidades 🔒
+
+![Technology](https://img.shields.io/badge/Technology-Streamlit-yellow?style=for-the-badge&logo=streamlit)
+
+### 📚 **Extração de Texto de Documentos**
+O sistema utiliza bibliotecas poderosas como **PyMuPDF** para PDFs e **python-docx** para documentos do Word. Isso permite uma extração precisa de texto, que é o ponto de partida para qualquer análise.
+
+### 🤖 **Integração com o Google Gemini**
+Usamos a IA do **Google Gemini** (modelo **gemini-1.5-flash-latest**) para fornecer análises automáticas de contratos. O modelo avalia cláusulas, riscos e até compatibilidade com regulamentos internacionais. 🌐
+
+---
+
+## ⚙️ Fluxo de Análise 🧑‍⚖️
+
+1. **Login Seguro** 🔐  
+   O usuário precisa fazer login para acessar as funcionalidades de análise. A segurança é garantida com **JWT** (JSON Web Tokens) para proteção da sessão. 🔑
+
+2. **Envio de Documentos** 📤  
+   O usuário carrega seus contratos em formatos como **PDF** ou **DOCX** para processamento.
+
+3. **Análises Personalizadas** 🔍  
+   A plataforma oferece diversas opções de análise como:  
+   - **Análise de Conformidade Legal** 📜  
+   - **Riscos Associados** 🚩  
+   - **Avaliação de Cláusulas** 📝  
+   - **Impacto Financeiro** 💰
+
+4. **Geração de Relatórios** 📝  
+   Após as análises, o sistema gera relatórios em formatos **Markdown** (.md) e **PDF** 📄. Esses relatórios incluem todas as recomendações e insights de acordo com o contrato.
+
+---
+
+## 📊 Funcionalidades Avançadas 💡
+
+### 🔮 **Análises Detalhadas**  
+O usuário pode ajustar o nível de rigidez da análise de 1 a 10, escolhendo entre três estilos de escrita: **Formal**, **Jurídico**, **Técnico**, ou **Descritivo**.
+
+### ✨ **Personalização de Respostas**  
+Escolha o tamanho da resposta: **Curta**, **Normal**, ou **Longa**. A IA gera respostas baseadas no estilo de escrita preferido e na análise específica. 📏
+
+### 🎯 **Utilização de Emojis e Ícones**  
+Se você deseja tornar os relatórios mais visuais, pode optar por usar **ícones** e **emojis**, estilizando-os para exportar diretamente para **Notion** ou outras plataformas de produtividade. 🎉
+
+---
+
+## 🛡️ Segurança e Conformidade 💼
+
+### 🧠 **Modelo de IA com Configurações de Segurança**  
+A IA é configurada com **múltiplas camadas de segurança**, incluindo a filtragem de conteúdos como **discurso de ódio** e **conteúdos sexualmente explícitos**. 🔒
+
+- **HARM_CATEGORY_HARASSMENT** 🛑 - **Bloqueio: Nenhum**
+- **HARM_CATEGORY_HATE_SPEECH** 💬 - **Bloqueio: Nenhum**
+- **HARM_CATEGORY_SEXUALLY_EXPLICIT** 🚫 - **Bloqueio: Nenhum**
+
+### 🧩 **JWT para Proteção de Sessão**  
+Toda a plataforma é protegida por **tokens JWT**, garantindo que apenas usuários autenticados possam acessar e gerar análises. 🛡️
+
+---
+
+## 🎨 Interface Interativa 🌍
+
+![UI](https://img.shields.io/badge/Interface-Streamlit-orange?style=for-the-badge&logo=streamlit)
+
+A interface é construída com **Streamlit**, proporcionando uma experiência fluida e fácil de usar. O usuário pode arrastar e soltar arquivos para iniciar a análise, além de ajustar os parâmetros de análise diretamente na página.
+
+- **Seleção de Análises**: Uma lista interativa de análises a serem realizadas, como **Análise de Preços** 💲 e **Verificação de Direitos de Propriedade** 🏠.
+- **Controle de Rigor**: Ajuste a intensidade da análise com um controle deslizante (1 a 10) para definir o nível de critério.
+
+---
+
+## 🎉 Resultados Finalizados ✨
+
+Após gerar as análises, os relatórios podem ser salvos em múltiplos formatos:
+- **Markdown**: Para fácil edição e integração com outras plataformas.
+- **PDF**: Para garantir portabilidade e distribuição dos resultados.
+
+---
+
+## 🏆 Conclusão
+
+O **Replika AI** é uma plataforma poderosa para profissionais que desejam realizar análises jurídicas de contratos com base em IA. Com funcionalidades avançadas de **personalização**, **segurança** e **resultados detalhados**, ele oferece uma solução ideal para empresas que buscam otimizar suas operações e tomar decisões baseadas em dados. 📈📚
+
+---
+
+## 🚀 Comece Agora!
+
+### Baixe agora e explore as funcionalidades do **Replika AI**!
+
+![Start](https://img.shields.io/badge/Start_Now-Click_Here-green?style=for-the-badge&logo=gitbook)
+
+
 
 **Análise de Conformidade Legal 📜**
 
