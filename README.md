@@ -19,7 +19,7 @@ Aqui, apresento como a inteligência artificial pode transformar o mundo jurídi
 🤝 **Solução para Problemas Reais**: Detectar riscos, inconsistências e oportunidades em contratos.  
 📈 **Ferramentas Prontas para Testar**: Um ambiente acessível para você **experimentar nossa solução**.  
 
-> 🔗 **Testar agora mesmo no Hugging Face**  
+> 🔗 **Testar agora mesmo no Hugging Face - admin - admin login e senha**  
 > 👉 [Acesse o projeto](https://huggingface.co/spaces/chaos4455/Aanlise-Contrato-Gemini-Flash-1-5)  
 >  
 > 📝 **Baixe o contrato para análise**  
