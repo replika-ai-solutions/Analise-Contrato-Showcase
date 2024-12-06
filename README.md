@@ -384,3 +384,36 @@ O contrato apresenta inúmeras cláusulas que violam a Lei nº 8.078/90 (Código
 **Conclusão:**
 
 Este contrato, na sua forma atual, demonstra um grave desequilíbrio contratual em detrimento do consumidor. A falta de clareza, transparência e as diversas cláusulas abusivas o tornam inaplicável em sua totalidade. É fundamental que o consumidor exija a revisão e adequação deste contrato aos ditames do Código de Defesa do Consumidor antes de sua assinatura. A ausência desta revisão pode resultar em prejuízos significativos para o consumidor. Recomenda-se a consulta a um advogado especializado para uma avaliação completa do documento e orientação sobre os direitos do consumidor.
+
+# ⚖️ **Embasamento Legal para Uso Justo do Contrato Localiza** 📜
+
+Este repositório está utilizando o **Contrato de Prestação de Serviços da Localiza** como **exemplo educacional** para análise, **gerado automaticamente pelo modelo Google Gemini Flash 1.5** em **06/12/2024**. A seguir, apresentamos o embasamento jurídico para o uso deste conteúdo:
+
+---
+
+### 📚 **Uso Justo (Fair Use)** - **Justificativa Legal**  
+De acordo com a **Lei de Direitos Autorais (Lei nº 9.610/1998)**, o uso de obras protegidas, como contratos, é permitido para **fins educacionais, técnicos ou demonstrativos**. A utilização do contrato da Localiza se enquadra no artigo 46, que autoriza a reprodução para:
+
+- **Artigo 46, inciso I**: Uso **sem fins lucrativos**, com a finalidade de **análise e estudo**.
+- **Artigo 46, inciso III**: Uso **educacional** ou para **demonstração tecnológica**.
+
+---
+
+### 🌍 **Interesse Público e Coletivo**  
+O contrato foi **baixado de uma fonte pública**, disponível no site oficial da Localiza, com a intenção de análise pública e coletiva. O **interesse público** em entender como a IA pode auxiliar na análise jurídica de contratos justifica o uso do conteúdo.
+
+---
+
+### 🧑‍⚖️ **Jurisprudência**  
+A jurisprudência do **Superior Tribunal de Justiça (STJ)** tem reconhecido a aplicação de **uso justo** para fins educacionais e demonstrativos, desde que não haja **interesse comercial direto**.
+
+---
+
+### ⚙️ **Conclusão**  
+Este conteúdo está sendo utilizado para **fins educativos**, **sem modificação substancial** do contrato e respeitando os direitos autorais, dentro dos limites legais de uso justo. Caso fosse outro contrato de qualquer empresa, a análise seria igualmente válida.
+
+---
+
+🔗 **Este repositório visa somente o aprendizado e a inovação.**  
+**Fique à vontade para contribuir ou questionar!**  
+
